@@ -1,0 +1,22 @@
+C:\Users\Admin\Desktop\bouncing ball\bin\Debug\bouncing ball.exe.config
+C:\Users\Admin\Desktop\bouncing ball\bin\Debug\bouncing ball.exe
+C:\Users\Admin\Desktop\bouncing ball\bin\Debug\bouncing ball.pdb
+C:\Users\Admin\Desktop\bouncing ball\obj\Debug\bouncing ball.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\bouncing ball\obj\Debug\bouncing ball.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\bouncing ball\obj\Debug\bouncing_ball.Form1.resources
+C:\Users\Admin\Desktop\bouncing ball\obj\Debug\bouncing_ball.Properties.Resources.resources
+C:\Users\Admin\Desktop\bouncing ball\obj\Debug\bouncing ball.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\bouncing ball\obj\Debug\bouncing ball.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\bouncing ball\obj\Debug\bouncing ball.exe
+C:\Users\Admin\Desktop\bouncing ball\obj\Debug\bouncing ball.pdb
+C:\Users\Admin\Desktop\grafika_CWL\zajecia9\bouncing ball\bin\Debug\bouncing ball.exe.config
+C:\Users\Admin\Desktop\grafika_CWL\zajecia9\bouncing ball\bin\Debug\bouncing ball.exe
+C:\Users\Admin\Desktop\grafika_CWL\zajecia9\bouncing ball\bin\Debug\bouncing ball.pdb
+C:\Users\Admin\Desktop\grafika_CWL\zajecia9\bouncing ball\obj\Debug\bouncing ball.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\grafika_CWL\zajecia9\bouncing ball\obj\Debug\bouncing ball.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\grafika_CWL\zajecia9\bouncing ball\obj\Debug\bouncing_ball.Form1.resources
+C:\Users\Admin\Desktop\grafika_CWL\zajecia9\bouncing ball\obj\Debug\bouncing_ball.Properties.Resources.resources
+C:\Users\Admin\Desktop\grafika_CWL\zajecia9\bouncing ball\obj\Debug\bouncing ball.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\grafika_CWL\zajecia9\bouncing ball\obj\Debug\bouncing ball.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\grafika_CWL\zajecia9\bouncing ball\obj\Debug\bouncing ball.exe
+C:\Users\Admin\Desktop\grafika_CWL\zajecia9\bouncing ball\obj\Debug\bouncing ball.pdb
